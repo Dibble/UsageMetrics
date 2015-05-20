@@ -1,0 +1,22 @@
+{
+  "name": "UsageMetrics",
+  "version": "0.0.0",
+  "description": "node js web server for SF Usage Metrics reporting",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dibble/UsageMetrics.git"
+  },
+  "author": "James Cotterell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dibble/UsageMetrics/issues"
+  },
+  "homepage": "https://github.com/Dibble/UsageMetrics",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
